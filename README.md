@@ -1,4 +1,4 @@
-Certainly! Here’s an updated version of your description with all the images you provided, centered and resized for a polished look:
+
 
 ---
 
