@@ -1,4 +1,4 @@
-Sure, I'll format the text to center the images and make them smaller while keeping the links hidden. Here's the updated description:
+Sure, I'll make the images centered and improve their presentation in the description. Here’s the updated text:
 
 ---
 
@@ -69,14 +69,14 @@ This is your chance to step into the world of **Flash USDT** and crypto experime
 Don’t wait—**CryptoFlashStore** gives you the keys to total crypto control. **Get started today** and experience the future of cryptocurrency!
 
 <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/0042fe62-a8d6-4952-8d7d-29fcacc09063" width="150" alt="CryptoFlashStore Image 1">
-    <img src="https://github.com/user-attachments/assets/ed9983d2-be02-493a-9d77-f7830489762e" width="150" alt="CryptoFlashStore Image 2">
-    <img src="https://github.com/user-attachments/assets/8e3e9083-a62f-421f-8638-2515438a4355"
+    <img src="https://github.com/user-attachments/assets/0042fe62-a8d6-4952-8d7d-29fcacc09063" width="300" alt="CryptoFlashStore Image 1">
+    <img src="https://github.com/user-attachments/assets/ed9983d2-be02-493a-9d77-f7830489762e" width="300" alt="CryptoFlashStore Image 2">
+    <img src="https://github.com/user-attachments/assets/8e3e9083-a62f-421f-8638-2515438a4355" width="300"
 
- width="150" alt="CryptoFlashStore Image 3">
-    <img src="https://github.com/user-attachments/assets/80b25764-10ff-4aa7-806c-1e00b126ea3e" width="150" alt="CryptoFlashStore Image 4">
+ alt="CryptoFlashStore Image 3">
+    <img src="https://github.com/user-attachments/assets/80b25764-10ff-4aa7-806c-1e00b126ea3e" width="300" alt="CryptoFlashStore Image 4">
 </div>
 
 ---
 
-Feel free to adjust the size and alignment as needed!
+This should help the images stand out while keeping them neatly centered and appropriately sized.
