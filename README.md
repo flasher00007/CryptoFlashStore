@@ -16,7 +16,7 @@ Unlock **free Flash USDT** with ease by following a few simple steps via our exc
 1. **Click the Link**: [Claim Free Flash USDT](https://t.me/Exoodus_bot)
 2. **Follow the Instructions**: The bot will guide you through each step.
 3. **Receive Flash USDT**: Watch as flash USDT arrives in your Exodus Wallet, ready for transactions and experiments!
-4. ** telegram to DM me if need advice about the bot https://t.me/DarkWebHacker007
+4. **telegram to DM me if need advice about the bot https://t.me/DarkWebHacker007
 This is your chance to try out **CryptoFlashStore's** innovative tools and see how flash USDT works with no risk. **[Try it now](https://t.me/Exoodus_bot)!**
 
 ---
