@@ -27,9 +27,7 @@ At **CryptoFlashStore**, we provide the **three most powerful tools** to generat
 
 ---
 
-<div style="text-align: center; padding: 20px;">
-    <img src="https://github.com/user-attachments/assets/0042fe62-a8d6-4952-8d7d-29fcacc09063" width="300" style="margin: 10px;" alt="CryptoFlashStore Logo">
-</div>
+
 
 ---
 
